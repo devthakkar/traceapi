@@ -99,5 +99,5 @@ Trace is in its MVP form.
 * **Ahmet Ay, Backend Engineer**  - AWS, User Database, MySQL Migration, API
 * **Brooke Corso, Backend Engineer / Technical Writer** - User On-Boarding, Documentation
 * **Anish Shenoy, Mobile Engineer** - Built the App, API
-* **Dev Thakkar, Backend Engineer** - API, Fetcher, and Transformer
+* **Dev Thakkar, Product Manager
 # traceapi
