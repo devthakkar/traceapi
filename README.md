@@ -96,7 +96,7 @@ Trace is an app created by the News Corp summer 2019 interns that allows users t
 Trace is in its MVP form.
 
 ## Authors
-* **Dev Thakkar, Backend Engineer**  - AWS, User Database, MySQL Migration, API
+* **Dev Thakkar, Product Manager and Backend Engineer**  - AWS, User Database, MySQL Migration, API
 * **Brooke Corso, Backend Engineer / Technical Writer** - User On-Boarding, Documentation
 * **Anish Shenoy, Mobile Engineer** - Built the Frontend, API
 # traceapi
